@@ -1,1 +1,1 @@
-# SmartContacts-Variables
+# SmartContacts-
